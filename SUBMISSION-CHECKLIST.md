@@ -10,7 +10,7 @@
 - [x] `console-output.txt`：完整运行输出（261 行）
 - [x] `README.md`：类职责表、各部分设计决策、四大支柱对应位置
 - [x] `A1-XinyangDong.zip`：整包（解压后是同名文件夹）
-- [x] GitHub 仓库已建并推送（9 次提交，已从远端全新克隆复验）
+- [x] GitHub 仓库已建并推送（11 次提交，已从远端全新克隆复验）
 
 ## 二、必须你自己完成的（作业硬性要求，不做会扣分）
 
@@ -20,11 +20,11 @@
 
 2. **GitHub 仓库（占 10% 评分）—— 已完成**
    仓库:<https://github.com/Serein0306/A1-XinyangDong>（public，公开仓库 tutor 可直接访问，无需邀请 collaborator）
-   - [x] 已推送 9 次提交，每条 commit message 都说明了改了什么
+   - [x] 已推送 11 次提交，每条 commit message 都说明了改了什么
    - [x] 已验证:从 GitHub 全新克隆后编译零警告、运行输出与 `console-output.txt` 逐字节一致
    - [ ] 你还需要:把仓库链接写进 MySCU 的提交 comments
-   - 注意:9 次提交集中在同一天（代码是 15 号完成的），不要为了"显得有进度"去改提交时间。
-     如果 tutor 问起，就照实说工作集中在截止前一天完成；之后再改代码就真的再提交一次。
+   - 注意:提交集中在 15–16 号两天（代码是截止前完成的），不要为了"显得有进度"去改提交时间。
+     如果 tutor 问起，就照实说工作集中在截止前完成；之后再改代码就真的再提交一次。
 
 3. **WakaTime 报告**
    装 WakaTime 插件并真的编码，导出报告为 `A1-XinyangDong-WakaTime.png/jpg/pdf` 一起提交。

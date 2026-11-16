@@ -19,3 +19,6 @@ desktop.ini
 
 # Logs and temporary files
 *.log
+
+# Local helper script, not part of the submission
+src/WAKA.py
