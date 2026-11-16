@@ -1,6 +1,6 @@
 # A1 提交清单（PROG2004 Assessment 1）
 
-学号 25258567 ｜ 截止:2026-11-16 23:59
+学号 25258567 ｜ 姓名 Xinyang Dong ｜ 截止:2026-11-16 23:59
 
 ## 一、已经完成的部分
 
@@ -9,18 +9,17 @@
 - [x] 编译验证:`javac -Xlint:all --release 11` 零警告；已实际运行并保存输出
 - [x] `console-output.txt`：完整运行输出（261 行）
 - [x] `README.md`：类职责表、各部分设计决策、四大支柱对应位置
-- [x] `A1-25258567.zip`：整包（解压后是同名文件夹）
+- [x] `A1-XinyangDong.zip`：整包（解压后是同名文件夹）
 - [x] GitHub 仓库已建并推送（9 次提交，已从远端全新克隆复验）
 
 ## 二、必须你自己完成的（作业硬性要求，不做会扣分）
 
-1. **项目名 / zip 名**
-   要求是 `A1-username`，username 是 **MySCU 用户名**，不是学号。
-   如果你的 MySCU 用户名不是 `25258567`，把文件夹和 zip 都改名为 `A1-你的用户名`。
-   同时把每个源文件头部的 `@author Dong Xinyang (25258567)` 改成你的名字和学号。
+1. **项目名 / zip 名 —— 已完成**
+   文件夹、zip、GitHub 仓库统一命名为 `A1-XinyangDong`；15 个源文件头部的
+   `@author Xinyang Dong (25258567)` 已同步更新。
 
 2. **GitHub 仓库（占 10% 评分）—— 已完成**
-   仓库:<https://github.com/Serein0306/A1-25258567>（public，公开仓库 tutor 可直接访问，无需邀请 collaborator）
+   仓库:<https://github.com/Serein0306/A1-XinyangDong>（public，公开仓库 tutor 可直接访问，无需邀请 collaborator）
    - [x] 已推送 9 次提交，每条 commit message 都说明了改了什么
    - [x] 已验证:从 GitHub 全新克隆后编译零警告、运行输出与 `console-output.txt` 逐字节一致
    - [ ] 你还需要:把仓库链接写进 MySCU 的提交 comments
@@ -28,7 +27,7 @@
      如果 tutor 问起，就照实说工作集中在截止前一天完成；之后再改代码就真的再提交一次。
 
 3. **WakaTime 报告**
-   装 WakaTime 插件并真的编码，导出报告为 `A1-25258567-WakaTime.png/jpg/pdf` 一起提交。
+   装 WakaTime 插件并真的编码，导出报告为 `A1-XinyangDong-WakaTime.png/jpg/pdf` 一起提交。
 
 4. **≤5 分钟视频**
    自己录、自己讲，禁止用 AI 生成。按下面顺序讲四大支柱，每条都做到:

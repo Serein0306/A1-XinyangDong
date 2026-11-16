@@ -8,7 +8,7 @@ import java.util.List;
  * name and the roster with everyone else, and adds the imaging modality they
  * work with and the ability to perform a scan.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Radiographer extends HealthProfessional {

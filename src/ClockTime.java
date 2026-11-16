@@ -10,7 +10,7 @@
  * <p>The object is immutable and validates itself in the constructor, so an
  * invalid time such as 24:15 can never exist.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class ClockTime implements Comparable<ClockTime> {

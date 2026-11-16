@@ -21,7 +21,7 @@ import java.util.Objects;
  * ID purely so that the order is predictable; the clinic is happy with either
  * order at the same time.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Appointment implements Comparable<Appointment> {

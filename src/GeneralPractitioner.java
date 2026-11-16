@@ -9,7 +9,7 @@ import java.util.List;
  * than rewritten. It adds the two things only a GP records and does: a Medicare
  * provider number and the ability to prescribe.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class GeneralPractitioner extends HealthProfessional {

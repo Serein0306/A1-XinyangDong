@@ -10,7 +10,7 @@ import java.util.Objects;
  * to change how a number is formatted for printing, and an object that can be
  * compared and passed around.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Patient {

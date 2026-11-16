@@ -7,7 +7,7 @@
  * constant also carries a short label, which keeps the printed output
  * readable.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public enum Weekday {

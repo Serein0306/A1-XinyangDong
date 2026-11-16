@@ -7,7 +7,7 @@
  * same kind print differently, and adding a new kind of professional is a
  * matter of adding a constant and a subclass.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public enum ProfessionalType {

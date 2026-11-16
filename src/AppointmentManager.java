@@ -18,7 +18,7 @@ import java.util.List;
  * printing a warning. The caller can then print it, or ignore it, and the
  * manager itself never writes to the console.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class AppointmentManager {

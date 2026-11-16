@@ -8,7 +8,7 @@ import java.util.List;
  * professional with the same shared data as everyone else, and adds a licence
  * number and the ability to dispense a prescription.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Pharmacist extends HealthProfessional {

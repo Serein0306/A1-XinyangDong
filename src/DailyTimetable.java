@@ -12,7 +12,7 @@ import java.util.List;
  * 08:30-17:00 in 15 minute slots is then a one line change in
  * {@link AssignmentOne} and no booking code has to be touched.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class DailyTimetable {

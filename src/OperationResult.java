@@ -12,7 +12,7 @@
  * <p>The object is immutable: the two factory methods are the only way to
  * create one.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class OperationResult {

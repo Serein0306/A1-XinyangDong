@@ -9,7 +9,7 @@ import java.util.List;
  * this physiotherapist specialises in and the ability to design an exercise
  * programme, which is behaviour of its own.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Physiotherapist extends HealthProfessional {

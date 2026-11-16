@@ -9,7 +9,7 @@ import java.util.List;
  * adds is the ward they are based on, and the ability to take a blood sample
  * rather than to prescribe.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public class Nurse extends HealthProfessional {

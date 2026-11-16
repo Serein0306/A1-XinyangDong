@@ -23,7 +23,7 @@ import java.util.Objects;
  * happens once, in the constructor, and the roster is handed out as a copy so
  * that a caller cannot edit it through the collection it received.</p>
  *
- * @author  Dong Xinyang (25258567)
+ * @author  Xinyang Dong (25258567)
  * @version 1.0
  */
 public abstract class HealthProfessional {
